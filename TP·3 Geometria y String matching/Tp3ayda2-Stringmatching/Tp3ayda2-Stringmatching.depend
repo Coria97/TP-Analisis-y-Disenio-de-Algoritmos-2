@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561568854 source:c:\users\santi\desktop\test\tp3ayda2-stringmatching\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
+1561737063 source:c:\users\santi\desktop\tp3ayda2-stringmatching\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1561495508 source:c:\users\santi\desktop\test\tp3ayda2\main.cpp
+	<iostream>
+	"punto.h"
+	"segmento.h"
+	<list>
+
+1561491390 c:\users\santi\desktop\test\tp3ayda2\include\punto.h
+
+1561478371 c:\users\santi\desktop\test\tp3ayda2\include\segmento.h
+	"punto.h"
+
+1561735658 source:c:\users\santi\desktop\tp3ayda2-geometrico\main.cpp
+	<iostream>
+	"punto.h"
+	"segmento.h"
+	<list>
+	<windows.h>
+	<mmsystem.h>
+
+1561735158 c:\users\santi\desktop\tp3ayda2-geometrico\include\punto.h
+
+1561478371 c:\users\santi\desktop\tp3ayda2-geometrico\include\segmento.h
+	"punto.h"
+

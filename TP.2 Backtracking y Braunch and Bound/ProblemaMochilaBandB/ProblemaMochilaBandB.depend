@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559318448 source:c:\users\santi\desktop\backtracking y braunch and bound\problemamochilabandb\main.cpp
+	<iostream>
+	<list>
+	<queue>
+
